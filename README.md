@@ -11,4 +11,5 @@ Day 1:
 5. [Permutations](https://cses.fi/problemset/task/1070) : [My Solution](https://github.com/simrank0/cses-problem-set/blob/master/Permutations.java)
 
 Day 2:
+
 6. [Number Spiral](https://cses.fi/problemset/task/1071) : 
